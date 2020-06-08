@@ -1,2 +1,2 @@
 # Java-Collections
-The Collection in Java is a framework that provides an architecture to store and manipulate the group of objects.
+Collection in Java are frameworks that provides an architecture to store and manipulate the group of objects. Samples here perform gettin names and password with Collection´s help 
