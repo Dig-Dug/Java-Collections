@@ -1,2 +1,2 @@
-# Java-Collections
+# Java-Collections-List-Xml-Json-Queue-Node-Threads
 Collection in Java are frameworks that provides an architecture to store and manipulate the group of objects. Samples here perform getting names and passwords with Collection´s help. Name_Application allows getting data either with Xml, Json or through a List in Java. The "tree" folder contains a example of working directly with the Java Object and Queues. And lastly, a sample of how to work with threads in the "ThreadDemo".
