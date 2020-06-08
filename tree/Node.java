@@ -1,5 +1,3 @@
-package de.cbw.jav.tree;
-
 public class Node {
 	private final Object value;
 	private final Node leftChild;
