@@ -1,5 +1,3 @@
-package de.cbw.jav.tree;
-
 import java.util.ArrayDeque;
 import java.util.Queue;
 
