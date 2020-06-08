@@ -4,9 +4,8 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 
-/**
+/*
  * Demo for thread creation and concurrent thread execution.
- * @author Sascha Baumeister
  */
 public class ThreadDemo {
 
